@@ -1,12 +1,13 @@
-# Hi, I'm Sam 👋
+<div>
+<p>hi, i'm samar. <br>
+welcome to my shire!</p>
+  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmc1bjA1Y3EzejdiZW0xNXFoYmpmdjQydjh5OWFlMXl2ODN6bTU4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CMdqo9TSQVzWOznb9a/giphy.gif" />
+<p>i'm a generalist + claudemaxxer</p>
 
-🎬 Freelance Video Editor | 🎵 Music Producer | 💻 Developer
+<samp>
+<a href="https://samarjal.com">site</a> • <a href="mailto:samarxjal@gmail.com">email</a>
+</samp>
 
-- 🔭 Currently building **Naavika.ai** — an AI travel guide for India
-- 🎓 Studying at AKTU
-- 🌐 Portfolio: [samarjal.com](https://samarjal.com)
+</div>
 
-## 🛠 Tools & Skills
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?logo=adobe-after-effects&logoColor=white&style=flat)
+---
